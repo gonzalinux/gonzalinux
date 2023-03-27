@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on three main projects<br>- My personal web page: gonzalo-leon.site<br>- My app En2fe hours <br>- A game called Dyatrix no Mori<br>🌱 I’m currently learning elixir and phoenix framework<br>💬 Ask me about anything!<br>⚡ Fun fact: I used to compete in a esport
+🔭 I’m currently working on three main projects<br>
+ - My personal web page: gonzalo-leon.site<br>
+ - My app En2fe hours <br>
+ - A game called Dyatrix no Mori
+
+
+<br>🌱 I’m currently learning elixir and phoenix framework<br>💬 Ask me about anything!<br>⚡ Fun fact: I used to compete in a esport
 
 
 ## 🌐 Socials:
