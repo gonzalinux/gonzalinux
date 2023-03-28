@@ -1,4 +1,6 @@
-# 💫 About Me:
+#  About Me:
+
+
 🔭 I’m currently working on three main projects<br>
  - My personal web page: gonzalo-leon.site<br>
  - My app En2fe hours <br>
@@ -22,9 +24,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gonzalinux&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gonzalinux&icon=0&color=0)](https://visitcount.itsvg.in)
